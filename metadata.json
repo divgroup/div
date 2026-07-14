@@ -1,0 +1,6 @@
+{
+  "name": "Digital Business Card Studio",
+  "description": "Design dynamic NFC profile pages, generate high-quality AI avatars, write AI-crafted professional bios, and export standard vCards & QR codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
